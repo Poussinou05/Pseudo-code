@@ -1,0 +1,11 @@
+Début combien de bonbon (prix,argent)
+nbre de bonbon = 0
+  Si argent et prix > 0
+    tant que argent >=prix
+      nbre de bonbon = nbre de bonbon + 1
+    fin tant que
+  Retourner nbre de bonbon
+  Sinon
+    Retourner nbre de bonbon
+  Fin si
+ Fin combien de bonbon
